@@ -1,1 +1,1 @@
-# STM32f103C8t6 Blink demo for bootlader
+# STM32f103C8t6 Blink demo for [bootlader](https://github.com/nicguzzo/bluepill_dfu)
